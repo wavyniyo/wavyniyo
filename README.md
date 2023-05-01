@@ -5,11 +5,11 @@
 
 <img align="right" alt="coder" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=wavyniyo&label=Profile%20views&color=0e75b6&style=flat" alt="wavyniyo" /> </p>
+<p align="left"> 
 
 - 💬 Ask me about **Python,MERN,js**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
